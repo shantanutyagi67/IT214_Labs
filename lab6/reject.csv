@@ -1,0 +1,100 @@
+a,order,
+a,their services/products,
+a,any debit/credit card,
+a,online payment,
+a,Online shopping,
+r,customers,Duplicates
+r,every customer,Duplicates
+r,this Customer Care Database,General
+r,we,General
+r,the Service Provider,Attributes
+r,the following functions,Irrelevant
+r,them,General
+r,a few payments,Attributes
+r,the Service Providers,Attributes
+r,Processor,Irrelevant
+r,1 GB,Irrelevant
+r,the opportunity,General
+r,the immediate needs,Attributes
+r,their owned bank accounts,Attributes
+r,the aforementioned database,Vague
+r,faulty transactions,Attributes
+r,complete reconfiguration,Attributes
+r,other valid accounts,Attributes
+r,the balance details,Attributes
+r,a new cheque book,Irrelevant
+r,4 GB,Irrelevant
+r,needs,General
+r,the Admin,Attributes
+r,respect,Irrelevant
+r,access,Vague
+r,recurring payment,Attributes
+r,microphone,Irrelevant
+r,their cards,Attributes
+r,This module,Attributes
+r,Hard Drive,Irrelevant
+r,one account,General
+r,complete access,Attributes
+r,the bank staff,Irrelevant
+r,the database,General
+r,a specific person,General
+r,all the relevant information,Vague
+r,privilege,Irrelevant
+r,services/queries,Duplicates
+r,the billing,Attributes
+r,The owner,Duplicates
+r,transactions,Attributes
+r,Minimum,Irrelevant
+r,its record,Vague
+r,any access,Vague
+r,a service provider,Attributes
+r,a cheque,Duplicates
+r,him,General
+r,General,General
+r,the customer care database,General
+r,issues,General
+r,card payment,Associations
+r,the Administrator,Dulpicate
+r,funds,General
+r,explicit authority,Vague
+r,His role,Irrelevant
+r,admin privileges,Attributes
+r,the easiest way,Vague
+r,their products,Vague
+r,This section,General
+r,highly scaled systems,Irrelevant
+r,The bank,General
+r,you,General
+r,the branch,Attributes
+r,an array,
+r,a new account,Attributes
+r,User ID,Attributes
+r,login,Attributes
+r,bills,Attributes
+r,the billing amount,Attributes
+r,his/her own risk,Irrelevant
+r,it,General
+r,a wide variety,Vague
+r,It,Dulpicate
+r,a few days,General
+r,accounts,Attributes
+r,queries,Dulpicate
+r,We,General
+r,the changes,General
+r,the service providers/admin,Dulpicate
+r,none,General
+r,Their primary role,Vague
+r,policy changes,Attributes
+r,bank,Dulpicate
+r,a proper database,General
+r,Memory,Irrelevant
+r,Distributed Database Systems,General
+r,Username,Dulpicate
+r,the administrator,Dulpicate
+r,the balance,Attributes
+r,End Users,Dulpicate
+r,the capability,Irrelevant
+r,their desired query/service,Dulpicate
+r,64 GB,Irrelevant
+r,a huge scale,Irrelevant
+r,a cost-effective and flawless experience,Associations
