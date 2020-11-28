@@ -1,0 +1,7 @@
+1)select service_provider_name from service_provider where administrator_id = '
+2)select account_number,credit_card_status from banking.credit_card where expiry_date=' '
+3)select count(distinct Administrator_name) from banking.Administrator
+4)select count(customer_ID) from banking.customer
+5)select customer_name,Account_number from banking.customer where Auditor_ID=''
+6)select count(distinct Administrator_name) from banking.Administrator
+7)select max(balance) from banking.Account_details
